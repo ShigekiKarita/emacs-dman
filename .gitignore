@@ -1,0 +1,7 @@
+*
+!*/
+!*.d
+!*.dpp
+!*.md
+!Makefile
+!.gitignore
