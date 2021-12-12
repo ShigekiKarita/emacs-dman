@@ -2,6 +2,7 @@
 !*/
 !*.d
 !*.dpp
+!*.el
 !*.md
 !Makefile
 !.gitignore
